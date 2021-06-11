@@ -1,0 +1,33 @@
+application.conf
+
+target
+.idea
+
+# WorkSheet files
+*.sc
+
+# For Mac users
+.DS_Store
+
+# test logs
+**/catalina.home_IS_UNDEFINED
+/.sbtopts
+
+# for local run
+/_runtime
+
+.bloop
+.bsp
+.metals
+.vscode
+metals.sbt
+
+logs
+
+.attach_*
+/_*
+
+src/main/resources/local.conf
+
+_scrap
+.java-version
